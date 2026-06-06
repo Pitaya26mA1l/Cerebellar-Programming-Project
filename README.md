@@ -15,4 +15,4 @@ When the time lag is 1.5 seconds apart the cerebellum drives the expression of t
 but if the time lag is 0.25 seconds apart the cerebellum drives the response at exactly the same time the tone is on.This suggests the cerebellum 
 is not only encoding that the tone is on but how long it has been on. For a snapshot of the sequence of neuronal activity of the cerebellum at a point 
 in time we can infer how long the tone has been on. The popular idea among neuroscientists is that once an input goes to a brain region it takes a layer of neurons to encode the input. That happens woth granule cells in the cerebellum. There has been a new synapse discovered that makes the encoding less sensitive to stray action potentials that the old models failed to predict. The pattern of neuronal activity must be constant for each trial of stimulus otherwise the cerebellum cannot learn to encode for the time the stimulus has been on. 
-Is learning required for the encoding or is everytime a tone is on the cerebellum encodes the stimulus the same way.
+Is learning required for the encoding or is everytime a tone is on the cerebellum encodes the stimulus the same way? The 
